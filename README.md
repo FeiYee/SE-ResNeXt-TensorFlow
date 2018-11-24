@@ -41,7 +41,7 @@ Unit.cfg    配置文件说明
     
     useModel.py     使用模型预测
     
-    SE_ResNeXt.py   ResNet系列模型前趋关系
+    SE_ResNeXt.py   模型前趋关系
 
     
 自行创建目录 
